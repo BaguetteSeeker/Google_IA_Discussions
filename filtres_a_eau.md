@@ -1,9 +1,9 @@
 # Historique de Discussion : Comparatif Filtration LaVie vs Berkey
-Ce document retranscrit l'intégralité de l'échange concernant les technologies de purification de l'eau (photolyse UVA LaVie et charbon actif Berkey).
+Ce document retranscrit l'intégralité de l'échange concernant les technologies de purification de l'eau (photolyse UVA + cartouche charbon / résine LaVie et charbon actif Berkey).
 ---
 ## Échange 1 : Explication du système LaVie
-Utilisateur : la vie filtration expliqué
-Assistant : Le système LaVie ne réalise pas une filtration mécanique classique. Il utilise une technologie brevetée par photolyse par UVA à l'intérieur d'un étui pour purifier l'eau du robinet en 15 minutes, sans aucun filtre à changer ni déchet.
+Utilisateur : Peux-tu m'expliquer le système de filtration dit de «photolyse» de LaVie ?
+Assistant : Le système LaVie utilise une technologie brevetée dîte «photolyse» par UVA à l'intérieur d'un étui pour purifier l'eau du robinet en 15 minutes, ce dernier n'induisant ni filtre à changer ni déchet.
 ### Le principe de fonctionnement
 * Sans filtre physique : Il n'y a pas de membrane ou de cartouche en plastique à jeter ou remplacer.
 * Action des UVA : Des LED envoient des rayons UVA sur une bouteille en verre remplie d'eau du robinet.
